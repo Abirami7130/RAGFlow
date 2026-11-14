@@ -1,0 +1,14 @@
+{
+  "title": "Widget",
+  "count": 3,
+  "details": {
+    "color": "blue",
+    "size": 42
+  },
+  "tags": ["alpha", "beta"],
+  "meta": {
+    "weird.key": {
+      "inner": "value"
+    }
+  }
+}
